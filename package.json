@@ -1,0 +1,37 @@
+{
+  "name": "weather",
+  "version": "0.0.1",
+  "description": "A weather app using the API from OpenWeatherMap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "weather-app"
+  ],
+  "author": "Digital Monkeyz",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.13.0",
+    "cssnano": "^3.7.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.3",
+    "jshint": "^2.9.2",
+    "typescript-compiler": "^1.4.1-2"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.72.0"
+  }
+}
