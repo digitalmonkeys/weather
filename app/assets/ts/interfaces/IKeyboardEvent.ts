@@ -1,0 +1,3 @@
+interface IKeyboardEvent {
+    which: string;
+}

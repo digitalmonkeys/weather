@@ -1,0 +1,3 @@
+interface IElement {
+    output(): String;
+}
